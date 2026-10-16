@@ -1,0 +1,10 @@
+# Python >= 3.10
+requests>=2.31
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+pytest>=7.4
+hypothesis==6.82.0
+jupyterlab>=4.0
+ipykernel>=6.25
